@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation:
 
     git clone https://github.com/pramodsvidyarthi/mydotfiles.git ~/.vim
@@ -24,3 +25,6 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule init
     git submodule update
 
+=======
+# mydotfiles
+>>>>>>> 4a7ffb31a9e707f4b4268724991867abc31c4b9d
